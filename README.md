@@ -88,25 +88,6 @@ const anwar = {
 
 </div>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anwarbuilds1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=10B981&icon_color=10B981&text_color=ffffff&bg_color=0B0F14&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarbuilds1&layout=compact&theme=github_dark&hide_border=true&title_color=10B981&text_color=ffffff&bg_color=0B0F14" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=anwarbuilds1&theme=github-dark&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981"/>
-
-</div>
 
 ---
 
